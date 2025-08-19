@@ -1,8 +1,8 @@
-<!-- Profile picture -->
+<!-- Profile picture 
 <p align="center">
   <img src="https://github.com/slns.png" alt="Profile Picture" width="130" height="130" style="border-radius:50%;" />
 </p>
-
+-->
 <h1 align="center">Hi, I'm Sérgio!</h1>
 <h1 align="center">Olá, eu sou o Sérgio!</h1>
 
