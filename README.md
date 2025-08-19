@@ -3,8 +3,8 @@
   <img src="https://github.com/slns.png" alt="Profile Picture" width="130" height="130" style="border-radius:50%;" />
 </p>
 -->
-<h1 align="center">Hi, I'm Sérgio!</h1>
-<h1 align="center">Olá, eu sou o Sérgio!</h1>
+<h1 align="center">Olá, eu sou o Sérgio!  |  Hi, I'm Sérgio!</h1>
+<!--<h1 align="center">Olá, eu sou o Sérgio!</h1>-->
 
 
 <p align="center">
@@ -17,10 +17,10 @@
   <a href="https://github.com/slns">
     <img src="https://img.shields.io/github/followers/slns?label=Seguidores&style=social" alt="GitHub Followers" />
   </a>
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:sergiolns75@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/seulinkedin/">
+  <a href="https://www.linkedin.com/in/s%C3%A9rgio-santos-0b313a51//">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
